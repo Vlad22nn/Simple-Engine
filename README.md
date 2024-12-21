@@ -5,3 +5,4 @@
 g++ -o game dvij.c++ -lSDL2
 И потом запускается файл командой:
 ./game
+![Иллюстрация к работе](https://github.com/Vlad22nn/Simple-Engine/blob/main/uml.png)
